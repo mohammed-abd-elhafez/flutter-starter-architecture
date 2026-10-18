@@ -1,0 +1,19 @@
+# Flutter and Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
